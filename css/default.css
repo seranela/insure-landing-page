@@ -563,6 +563,7 @@ footer {
 		order: 1;
 		position: relative;
 		top: clamp(1rem, 8vw, 6rem);
+		right: var(--spacing-page-side);
 	}
 
 	.intro-heading {
